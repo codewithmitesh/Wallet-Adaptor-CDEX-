@@ -1,0 +1,34 @@
+
+
+ 1. Wallet adaptor
+ 2. Wallet here is Web Based Made by HKirat https://github.com/code100x/cdex
+ 
+ 3. How tiplink is using it self as adaptor is it actually tells few compnay to add some more code for that
+ https://petal-estimate-4e9.notion.site/How-tiplink-might-be-doing-it-e33e75b481904e48bbaf18e4d4fc7ded
+ 
+ 4. Tiplinks official defination for the 
+ https://tiplink.notion.site/Integrating-TipLink-Wallet-Adapter-4ecc4b438c244535995223a8649a1356
+ 
+ 5. Also use the tiplinks officla npm package code or this 
+ here is the exect code 
+ https://www.npmjs.com/package/@tiplink/wallet-adapter?activeTab=code
+ 
+ 
+ 
+ Classic Wallet Adaptor :
+ https://github.com/anza-xyz/wallet-standard/blob/master/packages/wallets/ghost/src/initialize.ts
+ 
+ 
+ 
+ 
+ 
+ Use this Video For More info 
+ https://app.100xdevs.com/courses/4/428/429
+ 
+ 
+ Basically we need to make a wallet adaptor for our wallet.100xdev.com
+ so, for that it will be similar to the how tiplink's adaptor is created go throgh the docs and you will see that it has some code add on the tradtitional wallet adaptor's like our backpack or phantom right, simple adding one object as window.phantom or window.backpack.
+ now, for our we also have to add some code on top of the anza-xyz s wallet aadaptor following his wallet standards.
+ 
+ https://app.100xdevs.com/courses/4/428/429
+ Watch it from here 40:00 MMIMP and really good project hai!
