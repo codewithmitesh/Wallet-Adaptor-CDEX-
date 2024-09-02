@@ -32,3 +32,11 @@
  
  https://app.100xdevs.com/courses/4/428/429
  Watch it from here 40:00 MMIMP and really good project hai!
+ 
+ NOTE AND MMIMP:- 
+ 
+ Simple - Connect the Wallet and also add few Features like 
+ - Do the assignemtn add the all the wallet features like getting airdrop, sent transaction, see balance, see tokens, sent tokens,etc from This assignemtn 
+ https://petal-estimate-4e9.notion.site/Assignment-033406f44573484286042630e8b74a5c
+ 
+ https://petal-estimate-4e9.notion.site/Wallet-adapter-860feade9cb940cea696eedf4fc61251
